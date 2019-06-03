@@ -6,7 +6,7 @@ One of the most intimidating things about trying to learn Javascript nowadays is
 
 ![trying to drink water from a fire hose](https://i.ibb.co/C15tbdC/firehose.jpg)
 
-This list attempts to catalog valuable community resources that I've read/wathced to make it easier to learn things like Gutenberg, React, Webpack, Babel, etc.
+This list attempts to catalog valuable community resources that I've read/watched to make it easier to learn things like Gutenberg, React, Webpack, Babel, etc.
 
 _\*Prices stated may not be current. No price means it's free!_
 
